@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "jarvis-mobile-app",
+    "slug": "jarvis-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#040814"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.jivan.jarvis",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#040814"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "60725132-00de-4c82-b8eb-bc55ade63913"
+      }
+    }
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "60725132-00de-4c82-b8eb-bc55ade63913"
+    }
+  }
+}
