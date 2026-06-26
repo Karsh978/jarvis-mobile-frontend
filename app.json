@@ -15,24 +15,19 @@
       "supportsTablet": true
     },
     "android": {
-     "package": "com.jivan.jarvis.ai.assistant",
+      "package": "com.jivan.jarvis.ai.assistant",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#040814"
       }
     },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
     "extra": {
       "eas": {
         "projectId": "60725132-00de-4c82-b8eb-bc55ade63913"
       }
-    }
-  },
-  "web": {
-    "favicon": "./assets/favicon.png"
-  },
-  "extra": {
-    "eas": {
-      "projectId": "60725132-00de-4c82-b8eb-bc55ade63913"
     }
   }
 }
